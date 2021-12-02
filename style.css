@@ -1,0 +1,222 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+.first__page{
+    background: no-repeat url("/img/bg-image.jpg");
+    background-size: cover;
+    height: 766px;
+
+}
+.header__content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:0px 600px 0px 600px;
+    font-size: 14px;
+    color:#FFFFFF;
+}
+.topic{
+    text-align: center;
+    margin-top: 172px;
+    font-size: 64px;
+    line-height: 75px;
+    letter-spacing: 4.5px;
+    color:#FFFFFF;
+}
+.main__text{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 25.2px;
+    color:#FFFFFF;
+}
+.button{
+  margin-top: 45px; 
+}
+.first__footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:183px 765px 90px 815px;
+}
+.second__page{
+    display: flex;
+    justify-content: space-between;
+}
+.left__content{
+    display:flex;
+    flex-direction: column;
+}
+.represent{
+    margin-top:295px;
+    margin-left:269px;
+    font-size: 24px;
+    line-height: 28.13px;
+}
+.second__content{
+    margin-top: 20px;
+    margin-left:269px;
+    font-size: 14px;
+    line-height: 19.6px;
+}
+.second__button{
+    margin-top:30px;
+    margin-left: 269px;
+}
+.cards{
+    margin:120px 269px 140px 248px;
+}
+.third__page{
+    display: flex;
+    justify-content: space-between;
+    background-color:#F5F6F7;
+    
+}
+.right__imgs{
+    display:flex;
+    flex-direction:row;
+}
+
+.userpic{
+    margin-top:155px;
+    margin-left:396px;
+    
+}
+.our__community{
+    margin-top:20px;
+    margin-left:338px;
+    font-size: 16px;
+}
+.hacker{
+    margin-top:10px;
+    margin-left:269px;
+    font-size: 14px;
+    
+}
+.nav{
+    margin-left:609px;
+    margin-top:85px;
+}
+.first__rectangle{
+    margin-left:139px;
+    margin-top:23px;
+}
+.second__rectangle{
+    margin-left:30px;
+    margin-top:23px;
+    margin-right:40px;
+    margin-bottom:140px;
+}
+.fourth__page{
+    display: flex;
+    flex-direction: row;
+}
+.facetime{
+    margin-left:269px;
+    margin-top:120px;
+    margin-bottom:140px;
+}
+.implement{
+    margin-top:319px;
+    margin-left: 139px;
+}
+.code{
+    font-size: 24px;
+}
+.process{
+    margin-top:20px;
+}
+.learn{
+    margin-top:30px;
+}
+.fifth__page{
+    background: no-repeat url("/img/pexels-christina-morillo-1181675\ 1.jpg");
+    background-size: cover;
+    height: 500px;
+    color:#FFFFFF;
+}
+.email__content{
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   padding-top:220px;
+}
+.sign{
+ font-size: 24px;
+}
+.form{
+    margin-top: 30px;
+}
+.sixth__page{
+    background-color: #F5F6F7;
+}
+.download{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 120px;
+    font-size: 24px;
+    line-height: 28.3px;
+}
+.machine{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  font-size: 14px;
+  line-height: 19.8px;
+}
+.set{
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+    line-height: 19.8px;
+}
+.download__buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+}
+.apple{
+    margin-right:15px;
+}
+.android{
+    margin-left:15px;
+    margin-bottom: 180px;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+.right__nav{
+    display: flex;
+    flex-direction: row;
+    padding-top:73px;
+    margin-bottom: 92px;
+}
+.credits{
+    margin-left:120px;
+    color: white;
+}
+.privacy{
+    margin-left:40px;
+    color: white;
+}
+.terms{
+    margin-left: 40px;
+    color: white;
+}
+.footer__img{
+   margin-right: 110px;
+   margin-top: 60px;
+    
+}
+.RSS{
+   color: #818181;
+   margin-top: 73px;
+   font-size: 14px;
+   margin-right: 162px;
+}
